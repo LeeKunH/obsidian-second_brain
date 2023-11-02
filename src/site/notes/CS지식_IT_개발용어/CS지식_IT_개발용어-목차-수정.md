@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cs-it/cs-it/","tags":["개발용어_CS지식","목차"]}
+{"dg-publish":true,"permalink":"/cs-it/cs-it/","tags":["개발용어_CS지식","목차"],"noteIcon":""}
 ---
 
 ### 날짜 2023-10-25 13:15
