@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//ai/ai/","noteIcon":""}
+{"dg-publish":true,"permalink":"/ai/ai/","noteIcon":""}
 ---
 
 ### 날짜 2023-11-06 14:25
