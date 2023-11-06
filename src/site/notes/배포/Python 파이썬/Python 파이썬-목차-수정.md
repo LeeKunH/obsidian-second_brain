@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//python/python/","tags":["파이썬","목차"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/python/python/","tags":["파이썬","목차"],"noteIcon":""}
 ---
 
 ### 날짜 2023-11-06 18:00
