@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//Python-크롬 공룡게임-프로젝트/Python-크롬 공룡게임-프로젝트-목차/","tags":["목차","파이썬/프로젝트"],"noteIcon":""}
+{"dg-publish":true,"permalink":"//"Python-크롬 공룡게임-프로젝트/Python-크롬 공룡게임-프로젝트-목차/","tags":["목차","파이썬/프로젝트"],"noteIcon":""}
 ---
 
 ### 날짜 2023-11-06 16:47
