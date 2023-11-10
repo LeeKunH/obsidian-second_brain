@@ -21,7 +21,7 @@
 > 그러면 목표는 끌어당겨진다.  기회는 온다. 
 > 그 기회가 왔을 때 스스로 당당하게 그 기회를 잡을 수 있도록 역량을 쌓는다.
 
-- ### 테스트
+- ### [[Current career path pursued - values ​​regarding life - records\|현재 추구하는 진로-인생에 대한 가치관-기록]]
 
 ----
 
