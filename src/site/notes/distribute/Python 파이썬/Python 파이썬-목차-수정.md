@@ -17,7 +17,7 @@
 
 -------------------------------
 
-# ㅡ [[distribute/Python 파이썬/Content record folder/python code structure - logic form analysis\|python code structure - logic form analysis]]
+# ㅡ [[distribute/Python 파이썬/Content record folder/python code structure - logic form analysis\|파이썬 코드 구조_로직_형태 분석]]
 ##### ㅡ [[distribute/Python 파이썬/Content record folder/중첩클래스-내부클래스-코드구조\|중첩클래스-내부클래스-코드구조]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 특정 클래스 내부에 다른 클래스가 정의되어 있는 형태= 내부 클래스 = 중첩 클래스 구조
