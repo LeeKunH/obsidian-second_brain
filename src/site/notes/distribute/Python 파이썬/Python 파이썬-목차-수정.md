@@ -17,8 +17,8 @@
 
 -------------------------------
 
-# ㅡ [[distribute/Python 파이썬/내용기록폴더/python 코드 구조_로직_형태 분석\|python 코드 구조_로직_형태 분석]]
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/중첩클래스-내부클래스-코드구조\|중첩클래스-내부클래스-코드구조]]
+# ㅡ [[distribute/Python 파이썬/Content record folder/python code structure - logic form analysis\|python code structure - logic form analysis]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/중첩클래스-내부클래스-코드구조\|중첩클래스-내부클래스-코드구조]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 특정 클래스 내부에 다른 클래스가 정의되어 있는 형태= 내부 클래스 = 중첩 클래스 구조
 	
@@ -93,10 +93,10 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 > 프로그래밍 언어에서 "문법"이라는 용어는 "코드 작성 방법_규칙" 의미를 가지고 있음
 
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/예약어_키워드\|예약어_키워드]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/예약어_키워드\|예약어_키워드]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- del
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/이터레이터(Iterator) 타입-Iterable 이터러블 특징\|이터레이터(Iterator) 타입-Iterable 이터러블 특징]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/이터레이터(Iterator) 타입-Iterable 이터러블 특징\|이터레이터(Iterator) 타입-Iterable 이터러블 특징]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 이터레이터 - iterator
 		- "다음 값을 리턴할 수 있는 객체"
@@ -109,7 +109,7 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 				- ex) 리스트는 이터러블한 객체이지만 이터레이터 객체는 아님
 
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/객체특징-얕은복사-깊은복사-메모리주소\|객체특징-얕은복사-깊은복사-메모리주소]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/객체특징-얕은복사-깊은복사-메모리주소\|객체특징-얕은복사-깊은복사-메모리주소]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 객체의 특징
 		- Mutable - 변경/수정 가능한 자료형
@@ -128,7 +128,7 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 		- 클래스의 copy() 함수
 		- 리스트 슬라이싱
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/시퀀스-컬렉션-타입\|시퀀스-컬렉션-타입]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/시퀀스-컬렉션-타입\|시퀀스-컬렉션-타입]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 시퀀스 타입 - sequence
 		- 순서 존재 데이터 타입
@@ -144,12 +144,12 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 		- ex) 리스트는시퀀스 타입(특징)+ 컬렉션 타입(데이터 종류)
 
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/02장 파이썬 프로그래밍 기초-자료형/02-2 문자열 자료형\|02-2 문자열 자료형]]
-###### ㅡ [[distribute/Python 파이썬/내용기록폴더/문자열 관련 함수\|문자열 관련 함수]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/02장 파이썬 프로그래밍 기초-자료형/02-2 문자열 자료형\|02-2 문자열 자료형]]
+###### ㅡ [[distribute/Python 파이썬/Content record folder/문자열 관련 함수\|문자열 관련 함수]]
 - 키워드/문장 요약 =>
 	join()
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/02장 파이썬 프로그래밍 기초-자료형/02-3 리스트 자료형\|02-3 리스트 자료형]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/02장 파이썬 프로그래밍 기초-자료형/02-3 리스트 자료형\|02-3 리스트 자료형]]
 
 - 리스트 자료형 관련 함수
 	
@@ -161,7 +161,7 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 
 
 ### ㅡ 02-8 자료형의 값을 저장하는 공간, 변수
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/파이썬-변수의미-명명규칙-예약어\|파이썬-변수의미-명명규칙-예약어]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/파이썬-변수의미-명명규칙-예약어\|파이썬-변수의미-명명규칙-예약어]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 파이썬 변수란
 		- "값이 직접 들어가 있는 상태가 아닌 대입된 객체를 가리키는 포인터같은 상태" = "변수에 메모리 주소값이 할당"
@@ -180,7 +180,7 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 
 
 
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/네임스페이스-내장변수-__name__-객체참조탐색순서-LEGB\|네임스페이스-내장변수-__name__-객체참조탐색순서-LEGB]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/네임스페이스-내장변수-__name__-객체참조탐색순서-LEGB\|네임스페이스-내장변수-__name__-객체참조탐색순서-LEGB]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 내장변수
 		- `__name__`
@@ -203,7 +203,7 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 	- 코드파일을 "모듈로서 사용_실행" 표현
 		- import
 
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/파이썬-네임스페이스-접근제어\|파이썬-네임스페이스-접근제어]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/파이썬-네임스페이스-접근제어\|파이썬-네임스페이스-접근제어]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - 네임스페이스(Namespace)
 	- 이름 = 식별자
@@ -226,7 +226,7 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 	- 언제 사용?
 		- 클래스 속성값을 외부에서 접근하기 힘들게 할 때
 			- "클래스의 속성값을 외부에서 접근하고 있다" 
-			- [[distribute/Python 파이썬/내용기록폴더/파이썬-네임스페이스-접근제어\|private한 성격]]
+			- [[distribute/Python 파이썬/Content record folder/파이썬-네임스페이스-접근제어\|private한 성격]]
 			- "맹글링이 적용된 속성"
 				- `_클래스명__속성명`
 		- 하위 클래스에서 상위 클래스 속성을 오버라이딩 하는 것을 막을 때
@@ -259,8 +259,8 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 프로그램 코드를 작성하다보니 느낀 점
 	특정 조건에 따른_상황에 따른 흐름제어를 하고 싶을 땐 if문을 사용함
 
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/03장 프로그램의 구조를 쌓는다! 제어문/03-3 for문\|03-3 for문]]
-#### ㅡ [[distribute/Python 파이썬/내용기록폴더/반복문-range함수\|반복문-range함수]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/03장 프로그램의 구조를 쌓는다! 제어문/03-3 for문\|03-3 for문]]
+#### ㅡ [[distribute/Python 파이썬/Content record folder/반복문-range함수\|반복문-range함수]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 ㅡ for 문과 함께 자주 사용하는 range 함수
 : 입력된 인수에 따라 연속된 정수들을 나타내는 range객체 반환하는 함수
@@ -311,7 +311,7 @@ ex) `b = [i for i in a]`
 ----
 # 04장 파이썬의 입출력
 
-# ㅡ [[distribute/Python 파이썬/내용기록폴더/04-1 함수란\|04-1 함수란]]
+# ㅡ [[distribute/Python 파이썬/Content record folder/04-1 함수란\|04-1 함수란]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - 함수란 (function)
 - 가장 단순한 형태 함수 정의
@@ -368,7 +368,7 @@ ex) `b = [i for i in a]`
 
 
 
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/함수-리턴값에 따른 함수의 형태_용어\|함수-리턴값에 따른 함수의 형태_용어]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/함수-리턴값에 따른 함수의 형태_용어\|함수-리턴값에 따른 함수의 형태_용어]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - 1. 원본값/객체를 수정 후 반환/출력 값이 없는 메서드/함수 존재
 	- ~ 수정 후 값을 반환/출력하는 메서드/함수 존재
@@ -384,8 +384,8 @@ ex) `b = [i for i in a]`
 - 4. 새로운 객체를 생성 후 반환하는 메서드/함수 존재
 
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/리스트 슬라이싱-슬라이스 객체\|리스트 슬라이싱-슬라이스 객체]]
-###### ㅡ [[distribute/Python 파이썬/내용기록폴더/리스트-슬라이싱-복사-del-슬라이스 객체-사진\|리스트-슬라이싱-복사-del-슬라이스 객체-사진]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/리스트 슬라이싱-슬라이스 객체\|리스트 슬라이싱-슬라이스 객체]]
+###### ㅡ [[distribute/Python 파이썬/Content record folder/리스트-슬라이싱-복사-del-슬라이스 객체-사진\|리스트-슬라이싱-복사-del-슬라이스 객체-사진]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - 리스트 슬라이싱-슬라이스 객체
 	ㅡ
@@ -397,7 +397,7 @@ ex) `b = [i for i in a]`
 		: 새로운 리스트 객체가 반환된 상태가 아닌, 원본 객체 일부분을 참조하고 있는 객체일 뿐
 
 
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/유효범위-지역-전역변수\|유효범위-지역-전역변수]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/유효범위-지역-전역변수\|유효범위-지역-전역변수]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - 변수-유효범위 (variable scope)
 	- 지역 변수(local variable)
@@ -410,7 +410,7 @@ ex) `b = [i for i in a]`
 
 
 ### ㅡ [[distribute/Python-크롬 공룡게임-프로젝트/내용기록폴더/함수설명(독스트링)-타입힌트(Type Hint)\|함수설명(독스트링)-타입힌트(Type Hint)]]
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/타입힌트-추가 설명\|타입힌트-추가 설명]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/타입힌트-추가 설명\|타입힌트-추가 설명]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - 함수 설명(docstring) 작성방법
 - 타입 힌트(Type Hint) 표현식 
@@ -418,7 +418,7 @@ ex) `b = [i for i in a]`
 - 함수의 독스트링(docstring)
 	- "함수가 어떻게 정의되어 있는지 설명하다." <> "함수 동작 방식과 사용법을 설명하다" 
 
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/타입힌트용 클래스-타입힌트기호\|타입힌트용 클래스-타입힌트기호]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/타입힌트용 클래스-타입힌트기호\|타입힌트용 클래스-타입힌트기호]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - 타입 힌트
 	- 파이썬 객체지향
@@ -432,7 +432,7 @@ ex) `b = [i for i in a]`
 --------
 
 
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/매개변수 2가지 역할-옵션매개변수\|매개변수 2가지 역할-옵션매개변수]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/매개변수 2가지 역할-옵션매개변수\|매개변수 2가지 역할-옵션매개변수]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 ㅡ 메서드/함수 **매개변수** 두 가지 주요 **역할** 수행.
 1. 외부 인수 받는 단순 변수로서 역할 수행
@@ -440,13 +440,13 @@ ex) `b = [i for i in a]`
 2. 기존 함수의 기능에 추가적인 설정, 동작 제어 역할 수행 (**옵션** - 설정 - 매개변수)
 이러한 설정은 특정한 매개변수에 특정한 인수를 할당함으로서 함수 내부에서 기존 동작을 변경 or 조절.
 
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/매개변수-지정호출-기본값 설정\|매개변수-지정호출-기본값 설정]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/매개변수-지정호출-기본값 설정\|매개변수-지정호출-기본값 설정]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - 함수 매개변수-parameter
 	- 매개변수 지정 호출
 	- 매개변수 기본값 설정 - default parameters
 
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/가변매개변수-위치매개변수-키워드매개변수\|가변매개변수-위치매개변수-키워드매개변수]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/가변매개변수-위치매개변수-키워드매개변수\|가변매개변수-위치매개변수-키워드매개변수]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- `(*args, **kwargs)`
 	- 가변 인수_가변 매개변수 (variable-length arguments)
@@ -459,11 +459,11 @@ ex) `b = [i for i in a]`
 				- 딕셔너리
 	
 
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/메서드-함수\|메서드-함수]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/메서드-함수\|메서드-함수]]
 
 		함수 내부에 다른 함수가 정의.
 		반환출력값으로 내부에 정의된 함수가 호출 / 반환출력됨
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/람다표현식-익명함수\|람다표현식-익명함수]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/람다표현식-익명함수\|람다표현식-익명함수]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 람다 표현식(Lambda expression) =익명 함수(Anonymous function)
 		- "이름이 없는 함수"
@@ -536,7 +536,7 @@ ex)
 	
 이처럼 여러 기능들이 모여서 데이터베이스 프로그램이 동작하는 것 처럼 여러 클래스들이 결합되어 DB클래스가 만들어져있음
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/클래스객체-클래스인스턴스-용어\|클래스객체-클래스인스턴스-용어]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/클래스객체-클래스인스턴스-용어\|클래스객체-클래스인스턴스-용어]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 클래스 객체(Object) <> 클래스 인스턴스(Instance) 용어
 	- 클래스 객체 생성
@@ -546,8 +546,8 @@ ex)
 		- 객체에 값 할당
 		- `__init__` 메서드
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/파이썬(python) - 클래스(class)의 특징\|파이썬(python) - 클래스(class)의 특징]]
-###### ㅡ [[distribute/Python 파이썬/내용기록폴더/클래스-생성자-사용이유-예시코드\|클래스-생성자-사용이유-예시코드]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/파이썬(python) - 클래스(class)의 특징\|파이썬(python) - 클래스(class)의 특징]]
+###### ㅡ [[distribute/Python 파이썬/Content record folder/클래스-생성자-사용이유-예시코드\|클래스-생성자-사용이유-예시코드]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 클래스 정의 이유 - 예시코드
 	- 클래스 - 생성자 메서드 정의 이유 - 예시코드
@@ -569,14 +569,14 @@ ex)
 		파이썬 클래스 내부에 존재하는 변수_데이터를 "속성 (attributes), 필드 (fields)" 부름
 
 
-###### ㅡ [[distribute/Python 파이썬/내용기록폴더/클래스 계층구조-최상위-메타-사용자정의클래스\|클래스 계층구조-최상위-메타-사용자정의클래스]]
+###### ㅡ [[distribute/Python 파이썬/Content record folder/클래스 계층구조-최상위-메타-사용자정의클래스\|클래스 계층구조-최상위-메타-사용자정의클래스]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 클래스 계층구조
 		- 최상위 클래스 = object 클래스 - 모든 메타클래스의 부모 클래스
 			- 메타클래스 - 모든 클래스의 부모 클래스
 				- 사용자 정의 클래스 = 일반 클래스
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/클래스상속 (inheritance)-메서드오버라이딩 (method overriding)\|클래스상속 (inheritance)-메서드오버라이딩 (method overriding)]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/클래스상속 (inheritance)-메서드오버라이딩 (method overriding)\|클래스상속 (inheritance)-메서드오버라이딩 (method overriding)]]
 - 상속예시 : [[distribute/Python-크롬 공룡게임-프로젝트/내용기록폴더/파이썬 크롬 프로그램 코드를 작성하면서 느낀 점#상속\|파이썬 크롬 프로그램 코드를 작성하면서 느낀 점#상속]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 클래스 상속 (inheritance)
@@ -584,11 +584,11 @@ ex)
 		- 자식 클래스(child class) = 파생 클래스(derived class)
 	- 메서드 오버라이딩(method overriding)
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/MRO-다중상속-다이아몬드\|MRO-다중상속-다이아몬드]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/MRO-다중상속-다이아몬드\|MRO-다중상속-다이아몬드]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/특수속성-MRO\|특수속성-MRO]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/특수속성-MRO\|특수속성-MRO]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 메서드 결정 순서(Method Resolution Order)
 		- 특수 속성(dunder/magic attribute)
@@ -597,14 +597,14 @@ ex)
 		- `__mro__`
 		- `dir()` 함수
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/클래스-super()\|클래스-super()]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/클래스-super()\|클래스-super()]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - 클래스-super()
 	- "유지보수" = "중복코드 감소" = "동작 확장" 표현
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/클래스 내부변수-속성-언더스코어\|클래스 내부변수-속성-언더스코어]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/클래스 내부변수-속성-언더스코어\|클래스 내부변수-속성-언더스코어]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/정적메서드\|정적메서드]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/정적메서드\|정적메서드]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - 정적메서드
 	- 정의 방법 2가지
@@ -622,7 +622,7 @@ ex)
 	- 클래스의 인스턴스 생성 과정
 
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/매직메서드-특수-__str__-__repr__\|매직메서드-특수-__str__-__repr__]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/매직메서드-특수-__str__-__repr__\|매직메서드-특수-__str__-__repr__]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - 매직 메서드(Magic Method) - 특수 메서드
 	- `__str__`
@@ -635,7 +635,7 @@ ex)
 - 클래스 인스턴스 <> 내장함수
 
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/tk.TK()-tk.Tk-코드구조-클래스 직접참조\|tk.TK()-tk.Tk-코드구조-클래스 직접참조]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/tk.TK()-tk.Tk-코드구조-클래스 직접참조\|tk.TK()-tk.Tk-코드구조-클래스 직접참조]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - `tk.TK()` - 클래스 생성자 메서드를 참조_사용 표현
 - `tk.Tk` - 클래스 자체를 참조_사용 표현 
@@ -650,7 +650,7 @@ ex)
 	하나의 파이썬 코드 파일 안에 여러 개 클래스, 함수 등 포함가능
 
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/모듈 불러오기-import구문\|모듈 불러오기-import구문]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/모듈 불러오기-import구문\|모듈 불러오기-import구문]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 - import 구문
 	- import 모듈명
@@ -667,7 +667,7 @@ ex)
 	패키지 용어 <> 라이브러리 용어 혼용해서 설명됨.
 	ex) 라이브러리를 가져와 사용하더라도 에디터 프로그램에서는 모듈로 인식됨
 
-### ㅡ  [[distribute/Python 파이썬/내용기록폴더/05장 파이썬 날개 달기/05-5 내장 함수\|05-5 내장 함수]]
+### ㅡ  [[distribute/Python 파이썬/Content record folder/05장 파이썬 날개 달기/05-5 내장 함수\|05-5 내장 함수]]
 	파이썬에서 미리 만들어 제공해 주는 함수
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
@@ -681,7 +681,7 @@ ex)
 - max()
 - map()
 - dir() : 
-	[[distribute/Python 파이썬/내용기록폴더/클로저-함수-속성-변수유효범위#Q. 그렇다면 클로저는 대체 어디에 존재하는 걸까요?\|참고자료]]
+	[[distribute/Python 파이썬/Content record folder/클로저-함수-속성-변수유효범위#Q. 그렇다면 클로저는 대체 어디에 존재하는 걸까요?\|참고자료]]
 
 
 
@@ -761,7 +761,7 @@ ex)
 참고기록 : [[distribute/Python-크롬 공룡게임-프로젝트/내용기록폴더/콜라이더-충돌박스-사각형-피격범위#ㅡ 외부 라이브러리_프레임워크 이해\|콜라이더-충돌박스-사각형-피격범위#ㅡ 외부 라이브러리_프레임워크 이해]]
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/파이썬-cmd-명령코드\|파이썬-cmd-명령코드]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/파이썬-cmd-명령코드\|파이썬-cmd-명령코드]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	다른 기록들에서 나온 명령코드들을 
 	하나의 기록에 연결
@@ -780,12 +780,12 @@ ex)
 07장에서는 이 개념에 대해 알아본다. 
 
 
-### ㅡ [[distribute/Python 파이썬/내용기록폴더/데코레이터함수-표현식\|데코레이터함수-표현식]]
+### ㅡ [[distribute/Python 파이썬/Content record folder/데코레이터함수-표현식\|데코레이터함수-표현식]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 데코레이터 Decorator (함수)
 		- "꾸며주는 기능을 수행하는 함수" = "기존의 함수 앞, 뒤로 로직을 추가한다"
-		- [[distribute/Python 파이썬/내용기록폴더/일급객체(first-class citizen)-조건\|일급 객체(First class citizen)]]
-		- [[distribute/Python 파이썬/내용기록폴더/클로저-함수-속성-변수유효범위\|클로저(Closure)]]
+		- [[distribute/Python 파이썬/Content record folder/일급객체(first-class citizen)-조건\|일급 객체(First class citizen)]]
+		- [[distribute/Python 파이썬/Content record folder/클로저-함수-속성-변수유효범위\|클로저(Closure)]]
 		-
 	- 데코레이터 함수 사용 장-단점
 		- "코드 중복 최소화" = "재사용성 증가" = "수정하기 용이함"
@@ -801,7 +801,7 @@ ex)
 	- 데코레이터 동작순서/흐름
 	- `__call__`
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/클로저-함수-속성-변수유효범위\|클로저-함수-속성-변수유효범위]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/클로저-함수-속성-변수유효범위\|클로저-함수-속성-변수유효범위]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 클로저 (Closure)
 		- 1. 클로저 함수 
@@ -818,7 +818,7 @@ ex)
 		- 클로저 속성 필요한 이유
 	- "Q. 그렇다면 내부함수가 어떻게 외부 함수 변수를 참조? 사라지는거 아님?"
 
-###### ㅡ [[distribute/Python 파이썬/내용기록폴더/일급객체(first-class citizen)-조건\|일급객체(first-class citizen)-조건]]
+###### ㅡ [[distribute/Python 파이썬/Content record folder/일급객체(first-class citizen)-조건\|일급객체(first-class citizen)-조건]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 파이썬(python) - 일급 객체(first-class citizen)
 		- OPP 사용되는 개념
@@ -830,14 +830,14 @@ ex)
 			- "따라서 파이썬에서 함수는 일급 객체"
 	- "함수 객체 호출" <> "함수 호출(내부 코드로직)
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/매직메서드-종류\|매직메서드-종류]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/매직메서드-종류\|매직메서드-종류]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 매직 메소드(Magic method)
 		- "이미 특정한 기능이 정의된 함수"
 		- "직접 호출x > 정해진 규칙 호출"
 		- "파이썬 모든 데이터는 특정 클래스의 인스턴스/객체" 표현
 		- `__add__`
-		- [[distribute/Python 파이썬/내용기록폴더/클래스객체-클래스인스턴스-용어\|__new__]]
+		- [[distribute/Python 파이썬/Content record folder/클래스객체-클래스인스턴스-용어\|__new__]]
 		- `__init__`
 		- `__del__`
 		- `__str__`, `__repr__`
@@ -852,7 +852,7 @@ ex)
 		- "직접 속성에 접근" 표현
 		- "파이썬 객체지향 프로그래밍 언어"
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/컴프리헨션-표현식\|컴프리헨션-표현식]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/컴프리헨션-표현식\|컴프리헨션-표현식]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 컴프리헨션 표현식 존재 - Comprehension = 리스트 내포
 		- 리스트 "
@@ -865,7 +865,7 @@ ex)
 
 
 
-##### ㅡ [[distribute/Python 파이썬/내용기록폴더/제너레이터-지연평가구현체-컴프리헨션-yield\|제너레이터-지연평가구현체-컴프리헨션-yield]]
+##### ㅡ [[distribute/Python 파이썬/Content record folder/제너레이터-지연평가구현체-컴프리헨션-yield\|제너레이터-지연평가구현체-컴프리헨션-yield]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 제너레이터-Generator 타입/객체 = 지연 평가(Lazy Evaluation) 구현체
 		- 이터레이터 타입 생성 객체
@@ -874,7 +874,7 @@ ex)
 		- 1. (제너레이터 생성) 컴프리헨션-comprehension 문법/표기법 사용
 		- 2. 함수 내부에 yield 키워드 사용
 
-###### ㅡ [[distribute/Python 파이썬/내용기록폴더/제너레이터-이터레이터(Iterator)-코드 및 추가설명\|제너레이터-이터레이터(Iterator)-코드 및 추가설명]]
+###### ㅡ [[distribute/Python 파이썬/Content record folder/제너레이터-이터레이터(Iterator)-코드 및 추가설명\|제너레이터-이터레이터(Iterator)-코드 및 추가설명]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	ㅡ
 	**이터레이터** 데이터 순회를 가능하게 해주는 객체를 가리키는 용어.
