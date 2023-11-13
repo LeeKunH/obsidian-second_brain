@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/distribute/python/content-record-folder/python/","tags":["파이썬","코드"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/distribute/python/content-record-folder/python 코드 구조_로직_형태 분석/","tags":["파이썬","코드"],"noteIcon":""}
 ---
 
 ### 날짜 2023-11-03 15:53
