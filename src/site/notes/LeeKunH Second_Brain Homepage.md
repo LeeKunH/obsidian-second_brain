@@ -29,7 +29,7 @@
 	- ## [[distribute/Python 파이썬/Python 파이썬-목차-수정\|Python 언어]]
 		- ### [[distribute/Python-크롬 공룡게임-프로젝트/Python-크롬 공룡게임-프로젝트-목차\|Python-크롬 공룡게임-프로젝트]]
 		-
-	- ## 생산성 시스템
+	- ## [[distribute/productivity system-생산성 시스템/생산성 시스템\|생산성]]
 		- ### 옵시디
 		- ### 제텔카스텐 기록-관리 노트 시스템
 		-
