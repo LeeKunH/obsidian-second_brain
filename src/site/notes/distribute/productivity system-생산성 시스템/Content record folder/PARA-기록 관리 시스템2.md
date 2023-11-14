@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/distribute/productivity-system/content-record-folder/para-2/","tags":["생산성/시스템"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/distribute/productivity-system/content-record-folder/PARA-기록 관리 시스템2/","tags":["생산성/시스템"],"noteIcon":""}
 ---
 
 ### 날짜 2023-11-13 21:34
