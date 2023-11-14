@@ -37,11 +37,11 @@
 
 ### ㅡ [[distribute/Python-Chrome Dinosaur Game-Project/Content record folder/파이썬 크롬 공룡 게임-미니프로젝트-최종코드\|파이썬 크롬 공룡 게임-미니프로젝트-최종코드]]
 
-##### ㅡ [[distribute/Python-Chrome Dinosaur Game-Project/Content record folder/파이썬 크롬 공룡 게임-미니프로젝트-코드설명1\|파이썬 크롬 공룡 게임-미니프로젝트-코드설명1]]
+##### ㅡ [[distribute/Python-Chrome Dinosaur Game-Project/Content record folder/Python Chrome Dinosaur Game-Mini Project-Code Description 1\|Python Chrome Dinosaur Game-Mini Project-Code Description 1]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- constants.py
 
-##### ㅡ [[distribute/Python-Chrome Dinosaur Game-Project/Content record folder/파이썬 크롬 공룡 게임-미니프로젝트-코드설명2\|파이썬 크롬 공룡 게임-미니프로젝트-코드설명2]]
+##### ㅡ [[distribute/Python-Chrome Dinosaur Game-Project/Content record folder/Python Chrome Dinosaur Game-Mini Project-Code Description 2\|Python Chrome Dinosaur Game-Mini Project-Code Description 2]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- main.py
 		ㅡ
