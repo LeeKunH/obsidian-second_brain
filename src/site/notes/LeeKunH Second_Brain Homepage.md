@@ -27,7 +27,7 @@
 
 - # [[distribute/AI + 웹 개발 취업캠프/AI + 웹 개발 취업캠프-목차\|AI + 웹 개발 취업캠프]]
 	- ## [[distribute/Python 파이썬/Python 파이썬-목차-수정\|Python 언어]]
-		- ### [[distribute/Python-크롬 공룡게임-프로젝트/Python-크롬 공룡게임-프로젝트-목차\|Python-크롬 공룡게임-프로젝트]]
+		- ### [[distribute/Python-Chrome Dinosaur Game-Project/Python-Chrome Dinosaur Game-Project-Table of Contents\|Python-크롬 공룡게임-미니프로젝트]]
 		-
 	- ## [[distribute/productivity system-생산성 시스템/생산성 시스템\|생산성]]
 		- ### 옵시디언
