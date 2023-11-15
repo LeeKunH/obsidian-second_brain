@@ -24,6 +24,12 @@
 - ### [[Current career path pursued - values ​​regarding life - records\|현재 추구하는 진로-인생에 대한 가치관-기록]]
 
 ----
+- ##### [[distribute/Archive folder/Korean history-certificate\|한국사자격증]]
+- ##### [[distribute/Archive folder/TOEIC Speaking\|TOEIC Speaking]]
+- ##### [[distribute/Archive folder/Smart Manufacturing Implementation Professional\|스마트제조 구축운영 전문가]]
+- ##### [[distribute/Archive folder/comento\|학교-코멘토수료]]
+
+----
 
 - # [[distribute/AI + 웹 개발 취업캠프/AI + 웹 개발 취업캠프-목차\|AI + 웹 개발 취업캠프]]
 	- ## [[distribute/Python 파이썬/Python 파이썬-목차-수정\|Python 언어]]
