@@ -29,7 +29,7 @@
 	- ## [[distribute/Python 파이썬/Python 파이썬-목차-수정\|Python 언어]]
 		- ### [[distribute/Python-Chrome Dinosaur Game-Project/Python-Chrome Dinosaur Game-Project-Table of Contents\|Python-크롬 공룡게임-미니프로젝트]]
 		-
-	- ## [[distribute/productivity system-생산성 시스템/생산성 시스템\|생산성]]
+	- ## [[distribute/productivity system-생산성 시스템/productivity system\|생산성]]
 		- ### 옵시디언
 		- ### [[distribute/productivity system-생산성 시스템/배움-회독 시스템-목차\|배움-회독 시스템]]
 		- ### [[distribute/productivity system-생산성 시스템/노트 기록 체계화 시스템-목차\|제텔카스텐 노트 기록 시스템]]
