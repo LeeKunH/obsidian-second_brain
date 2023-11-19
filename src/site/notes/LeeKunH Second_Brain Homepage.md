@@ -33,6 +33,7 @@
 
 - # [[distribute/AI+Web Development Camp/AI-WEB 개발 취업캠프-목차\|AI + 웹 개발 취업캠프]]
 	- ## [[distribute/Python 파이썬/Python 파이썬-목차-수정\|Python 언어]]
+		- ## python 플라스크 웹사이트 구축
 		- ### [[distribute/Python-Chrome Dinosaur Game-Project/Python-Chrome Dinosaur Game-Project-Table of Contents\|Python-크롬 공룡게임-미니프로젝트]]
 		- ### [[distribute/Python 파이썬/Python Grammar-Algorithm-100/Record of Python grammar-algorithm solution process\|파이썬 문법/알고리즘 100제]]
 		- 
@@ -47,5 +48,8 @@
 		- ### 딥러닝 미니 프로젝트
 		-
 	- ## CS지식-IT-개발용어
+	- ## 개발도구
+	-
+	- ## DB-데이터베이스
 
 
