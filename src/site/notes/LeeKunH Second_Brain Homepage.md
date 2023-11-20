@@ -36,25 +36,29 @@
 		- ## python 플라스크 웹사이트 구축
 		- ### [[distribute/Python-Chrome Dinosaur Game-Project/Python-Chrome Dinosaur Game-Project-Table of Contents\|Python-크롬 공룡게임-미니프로젝트]]
 		- ### [[distribute/Python 파이썬/Python Grammar-Algorithm-100/Record of Python grammar-algorithm solution process\|파이썬 문법/알고리즘 100제]]
-		- 
+		ㅡ
+	- ## HTML/CSS/JavaScript
+	ㅡ
 	- ## [[distribute/productivity system-생산성 시스템/productivity system\|생산성]]
 		- ### 옵시디언
 		- ### [[distribute/productivity system-생산성 시스템/배움-회독 시스템-목차\|배움-회독 시스템]]
 		- ### [[distribute/productivity system-생산성 시스템/노트 기록 체계화 시스템-목차\|제텔카스텐 노트 기록 시스템]]
 		- ### [[distribute/productivity system-생산성 시스템/PARA-관리 시스템-목차\|PARA 기록 관리 시스템]]
-		-
+		ㅡ
 	- ## 인공지능
 		- ### AICE 자격증
 		- ### 딥러닝 미니 프로젝트
-		-
+		ㅡ
 	- ## CS지식-IT-개발용어
+	ㅡ
 	- ## 개발도구
 		- ### VScode-비주얼 스튜디오 코드
 		- ### ANACONDA-아나콘다
 		- ### Jupyter Notebook-주피터 노트북
-	-
+		- ### 깃-깃허브
+	ㅡ
 	- ## DB-데이터베이스
-	-
+	ㅡ
 	- ## 최종 프로젝트
 
 
