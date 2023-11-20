@@ -24,7 +24,7 @@
 - ### [[Current career path pursued - values ​​regarding life - records\|현재 추구하는 진로-인생에 대한 가치관-기록]]
 
 ----
-- # [[distribute/Weekly note/Weekly note-Table of Contents\|Weekly note]]
+- ### [[distribute/Weekly note/Weekly note-Table of Contents\|Weekly note]]
 
 ----
 - ##### [[distribute/Archive folder/Korean history-certificate\|한국사자격증]]
