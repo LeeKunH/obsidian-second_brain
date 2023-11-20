@@ -24,6 +24,9 @@
 - ### [[Current career path pursued - values ​​regarding life - records\|현재 추구하는 진로-인생에 대한 가치관-기록]]
 
 ----
+- # [[distribute/Weekly note/Weekly note-Table of Contents\|Weekly note]]
+
+----
 - ##### [[distribute/Archive folder/Korean history-certificate\|한국사자격증]]
 - ##### [[distribute/Archive folder/TOEIC Speaking\|TOEIC Speaking]]
 - ##### [[distribute/Archive folder/Smart Manufacturing Implementation Professional\|스마트제조 구축운영 전문가]]
@@ -46,7 +49,7 @@
 		- ### [[distribute/productivity system-생산성 시스템/PARA-관리 시스템-목차\|PARA 기록 관리 시스템]]
 		ㅡ
 	- ## 인공지능
-		- ### AICE 자격증
+		- ### [[distribute/AI-Artificial Intelligence/AICE-Table of Contents\|AICE 자격증]]
 		- ### 딥러닝 미니 프로젝트
 		ㅡ
 	- ## CS지식-IT-개발용어
