@@ -55,7 +55,7 @@
 	- ## CS지식-IT-개발용어
 	- 
 	- ## 개발도구
-		- ### VScode-비주얼 스튜디오 코드
+		- ### [[distribute/VScode-비주얼 스튜디오 코드/VScode-Table of Contents\|VScode-비주얼 스튜디오 코드]]
 		- ### ANACONDA-아나콘다
 		- ### Jupyter Notebook-주피터 노트북
 		- ### 깃-깃허브
