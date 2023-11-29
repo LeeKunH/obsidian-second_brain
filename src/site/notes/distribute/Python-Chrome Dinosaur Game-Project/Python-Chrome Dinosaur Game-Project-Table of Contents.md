@@ -4,6 +4,14 @@
 
 ### 날짜 2023-10-18 22:42
 
+# 참고/연관된 기록 =>
+- Pygame 공식문서_설명서 : https://www.pygame.org/docs/ref/key.html#pygame.key.get_pressed
+
+- 참고자료 : https://velog.io/@llsuzn/PyGame%EC%B5%9C%EC%A2%85
+
+- 깃허브 주소 : https://github.com/LeeKunH/NIPA_Seoul_Web/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%AC%EA%B3%B5%EB%A3%A1%EA%B2%8C%EC%9E%84-%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/self_ChromeDinoGame
+
+
 ---
 # 행동에 대한 이유/근거 =>
 
@@ -17,12 +25,7 @@
 이 프로젝트에 붙일 미니 프로젝트를 만들어보기 위해
 
 -----------------
-
 # <크롬 공룡 게임 만들기 with Pygame>
-- Pygame 공식문서_설명서 : https://www.pygame.org/docs/ref/key.html#pygame.key.get_pressed
-- 참고자료 : https://velog.io/@llsuzn/PyGame%EC%B5%9C%EC%A2%85
-- 깃허브 주소 : https://github.com/LeeKunH/NIPA_Seoul_Web/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%AC%EA%B3%B5%EB%A3%A1%EA%B2%8C%EC%9E%84-%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/self_ChromeDinoGame
-
 ```
 51. Pycharm 설치 및 환경설정
 52. Python 클래스 특강
@@ -87,13 +90,13 @@
 
 
 
-##### ㅡ [[VS코드-워크벤치(Workbench) 용어\|VS코드-워크벤치(Workbench) 용어]]
+##### ㅡ [[distribute/VScode-비주얼 스튜디오 코드/Content record folder/VS코드-워크벤치(Workbench) 용어\|VS코드-워크벤치(Workbench) 용어]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- VS코드-워크벤치(Workbench) 용어
 		ㅡ
 		워크벤치 = 사용자 인터페이스 공간 = vs코드 메인 화면 영역
 
-##### ㅡ [[VS코드-메뉴언어변경-단축키\|VS코드-메뉴언어변경-단축키]]
+##### ㅡ [[distribute/VScode-비주얼 스튜디오 코드/Content record folder/VS코드-메뉴언어변경-단축키\|VS코드-메뉴언어변경-단축키]]
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- VSCode 메뉴 표시 언어 변경
 		- ctrl + shift + p 단축키 - 명령 팔레트
