@@ -7,6 +7,10 @@
 # 참고/연관된 기록 =>
 - https://wikidocs.net/book/1
 
+---
+# Second-Brain
+![Pasted image 20231129151220.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020231129151220.png)
+
 
 -------------------------------
 # ㅡ [[파이썬 코드 구조_로직_형태 분석\|파이썬 코드 구조_로직_형태 분석]]
