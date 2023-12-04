@@ -41,7 +41,7 @@
 		- ### [[distribute/Python-Chrome Dinosaur Game-Project/Python-Chrome Dinosaur Game-Project-Table of Contents\|Python-크롬 공룡게임-미니프로젝트]]
 		- ### [[distribute/Python 파이썬/Python Grammar-Algorithm-100/Record of Python grammar-algorithm solution process\|파이썬 문법/알고리즘 100제]]
 		- 
-	- ## HTML/CSS/JavaScript
+	- ## [[HTML-CSS-JavaScript-Web Page-Table of Contents \| HTML/CSS/JavaScript-웹 페이지]]
 	- 
 	- ## [[distribute/productivity system-생산성 시스템/productivity system\|생산성]]
 		- ### 옵시디언
@@ -64,5 +64,3 @@
 	- ## DB-데이터베이스
 	- 
 	- ## 최종 프로젝트
-
-
