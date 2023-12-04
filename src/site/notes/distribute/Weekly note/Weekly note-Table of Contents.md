@@ -9,3 +9,5 @@
 
 ### ㅡ [[distribute/Weekly note/Content record folder/2023-11-12-W2\|2023-11-12-W2]]
 ### ㅡ [[distribute/Weekly note/Content record folder/2023-11-19-W3\|2023-11-19-W3]]
+
+### ㅡ [[distribute/Weekly note/Content record folder/2023-11-26-W4\|2023-11-26-W4]]
