@@ -29,9 +29,10 @@
 
 ----
 - ##### [[distribute/Archive folder/Korean history-certificate\|한국사자격증]]
-- ##### [[distribute/Archive folder/TOEIC Speaking\|TOEIC Speaking]]
+- ##### [[distribute/2022-2 Mechanism design basics(기구설계기초-과목)/2022-2 Mechanism design basics(기구설계기초-과목)\| 2022-2학기 C언어 활용-기구설계-프로젝트]]
 - ##### [[distribute/Archive folder/Smart Manufacturing Implementation Professional\|스마트제조 구축운영 전문가]]
 - ##### [[distribute/Archive folder/comento\|학교-코멘토수료]]
+- ##### [[distribute/Archive folder/TOEIC Speaking\|TOEIC Speaking]]
 
 ----
 
