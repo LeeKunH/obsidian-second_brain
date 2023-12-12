@@ -34,6 +34,7 @@
 
 ----
 
+
 - # [[distribute/AI+Web Development Camp/AI-WEB 개발 취업캠프-목차\|AI + 웹 개발 취업캠프]]
 	- ## [[distribute/Python 파이썬/Python - Table of Contents\|Python 언어]]
 		- ## python 플라스크 웹사이트 구축
@@ -44,6 +45,7 @@
 	- 
 	- ## [[distribute/productivity system-생산성 시스템/productivity system\|생산성]]
 		- ### 옵시디언
+			- #### [[distribute/obsidian-publish(옵시디언배포)/obsidian-publish-Table of Contents\|옵시디언-배포]]
 		- ### [[distribute/productivity system-생산성 시스템/배움-회독 시스템-목차\|배움-회독 시스템]]
 		- ### [[distribute/productivity system-생산성 시스템/노트 기록 체계화 시스템-목차\|제텔카스텐 노트 기록 시스템]]
 		- ### [[distribute/productivity system-생산성 시스템/PARA-관리 시스템-목차\|PARA 기록 관리 시스템]]
