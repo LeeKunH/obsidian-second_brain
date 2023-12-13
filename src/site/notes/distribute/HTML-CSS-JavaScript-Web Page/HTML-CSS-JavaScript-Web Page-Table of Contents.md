@@ -46,7 +46,8 @@
 > 	
 > 그렇게되면 모르는 부분이 나왔을 때 대략적인 키워드로 검색을 하면서 내용을 채워가면 됨.
 
-ㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡ
+
 - HTML 문법 | [[HTML문법-요소-태그-속성-속성값\|HTML문법-요소-태그-속성-속성값]]
 	- 
 - HTML 태그
@@ -89,20 +90,23 @@
 				- path태그
 			- input태그 + form태그 | [[form태그-html입력폼\|form태그-html입력폼]]
 				- type 속성
-ㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡ
 - 코드펜 | [[✏️코드펜(CodePen)\|✏️코드펜(CodePen)]]
 - VS코드 | [[distribute/VScode-비주얼 스튜디오 코드/Content record folder/VS-확장버튼-기능확장\|VS-확장버튼-기능확장]]
 
 
+------
 # ㅡ Part2 - CSS
 
-
+------
 
 # ㅡ Part3 - Javascript
 
 
 
 
+-----
+------
 ---
 # ㅡ HTML
 
@@ -304,6 +308,7 @@
 - <span style="background:rgba(240, 200, 0, 0.2)">키워드/문장 기록 =></span>
 	- 유튜브 웹 페이지-구조분석
 	- 이미지
+
 
 -------
 # ㅡ CSS
