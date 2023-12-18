@@ -14,3 +14,5 @@
 
 ### ㅡ [[distribute/Weekly note/Content record folder/2023-12-03-W1\|2023-12-03-W1]]
 - [[distribute/Weekly note/Content record folder/2023-12-03-W-잘하고 싶은 것-10분\|2023-12-03-W-잘하고 싶은 것-10분]]
+
+### ㅡ [[distribute/Weekly note/Content record folder/2023-12-11-W2\|2023-12-11-W2]]
