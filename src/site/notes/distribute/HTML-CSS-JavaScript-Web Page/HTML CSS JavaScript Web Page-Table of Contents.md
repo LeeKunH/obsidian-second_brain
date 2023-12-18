@@ -22,7 +22,7 @@
 
 ---
 # Second-Brain
-![Pasted image 20231204123313.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020231204123313.png)
+![Pasted image 20231218132304.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020231218132304.png)
 
 
 -----------------
