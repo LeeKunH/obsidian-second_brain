@@ -54,7 +54,7 @@
 		- ### [[distribute/AI-Artificial Intelligence/AICE-Table of Contents\|AICE 자격증]]
 		- ### 딥러닝 미니 프로젝트
 		- 
-	- ## CS지식-IT-개발용어
+	- ## [[distribute/Development terminology-CS knowledge-IT information/Development-CS-IT information-Table of Contents\|CS지식_IT_개발용어]]
 	- 
 	- ## 개발도구
 		- ### [[distribute/VScode-비주얼 스튜디오 코드/VScode-Table of Contents\|VScode-비주얼 스튜디오 코드]]
