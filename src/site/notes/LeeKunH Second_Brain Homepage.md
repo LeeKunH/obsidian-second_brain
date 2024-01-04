@@ -39,7 +39,7 @@
 	- ## [[distribute/Python 파이썬/Python - Table of Contents\|Python 언어]]
 		- ## python 플라스크 웹사이트 구축
 		- ### [[distribute/Python-Chrome Dinosaur Game-Project/Python-Chrome Dinosaur Game-Project-Table of Contents\|Python-크롬 공룡게임-미니프로젝트]]
-		- ### [[distribute/Python 파이썬/Python Grammar-Algorithm-100/Record of Python grammar-algorithm solution process\|파이썬 문법/알고리즘 100제]]
+		- ### [[distribute/Algorithm-Coding Test-CT-Problem/Algorithm-Coding Test-CT-Problem-Table of Contents\|알고리즘-코딩테스트-CT 문제풀이]]
 		- 
 	- ## [[distribute/HTML-CSS-JavaScript-Web Page/HTML CSS JavaScript Web Page-Table of Contents\| HTML CSS JS-웹 페이지 구축]]
 	- 
