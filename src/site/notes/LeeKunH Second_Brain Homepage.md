@@ -24,6 +24,7 @@
 
 ----
 - ### [[distribute/Weekly note/Weekly note-Table of Contents\|Weekly note]]
+- ### [[distribute/Weekly note/Weekly Exercise Iog\|Weekly Exercise Iog]]
 
 ----
 - ##### [[distribute/Archive folder/Korean history-certificate\|한국사자격증]]
