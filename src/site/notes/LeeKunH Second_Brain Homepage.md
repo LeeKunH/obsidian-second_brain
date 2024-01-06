@@ -44,12 +44,8 @@
 		- 
 	- ## [[distribute/HTML-CSS-JavaScript-Web Page/HTML CSS JavaScript Web Page-Table of Contents\| HTML CSS JS-웹 페이지 구축]]
 	- 
-	- ## [[distribute/productivity system-생산성 시스템/productivity system\|생산성]]
-		- ### 옵시디언
-			- #### [[distribute/obsidian-publish(옵시디언배포)/obsidian-publish-Table of Contents\|옵시디언-배포]]
-		- ### [[distribute/productivity system-생산성 시스템/배움-회독 시스템-목차\|배움-회독 시스템]]
-		- ### [[distribute/productivity system-생산성 시스템/노트 기록 체계화 시스템-목차\|제텔카스텐 노트 기록 시스템]]
-		- ### [[distribute/productivity system-생산성 시스템/PARA-관리 시스템-목차\|PARA 기록 관리 시스템]]
+	- ## [[distribute/productivity system-생산성 시스템/productivity system\|생산성-시스템]]
+		- ### [[distribute/productivity system-생산성 시스템/Goals - Law of Attraction-Table of Contents\|목표 끌어당김 법칙]]
 		- 
 	- ## 인공지능
 		- ### [[distribute/AI-Artificial Intelligence/AICE-Table of Contents\|AICE 자격증]]
