@@ -35,3 +35,6 @@
 
 ### ㅡ 2023-12-31 일요일
 ![KakaoTalk_20240105_210140213.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/KakaoTalk_20240105_210140213.png)`
+
+### ㅡ 2024-01-06 토요일
+![Pasted image 20240107181910.png](/img/user/%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC/Pasted%20image%2020240107181910.png)
