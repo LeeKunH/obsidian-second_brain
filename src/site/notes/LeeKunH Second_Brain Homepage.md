@@ -46,7 +46,7 @@
 	- 
 	- ## [[distribute/productivity system-생산성 시스템/productivity system\|생산성-시스템]]
 		- ### [[distribute/productivity system-생산성 시스템/Goals - Law of Attraction-Table of Contents\|목표 끌어당김 법칙]]
-		- 
+		- ### [[distribute/productivity system-생산성 시스템/discpline_rule_regulation-routine SOP\|규칙-규율-루틴SOP]]
 	- ## 인공지능
 		- ### [[distribute/AI-Artificial Intelligence/AICE-Table of Contents\|AICE 자격증]]
 		- ### 딥러닝 미니 프로젝트
