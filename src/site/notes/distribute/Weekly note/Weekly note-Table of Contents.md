@@ -20,7 +20,7 @@
 ### ㅡ [[distribute/Weekly note/Content record folder/2023-12-24-W4\|2023-12-24-W4]]
 
 ----
-### ㅡ [[distribute/Weekly note/2024-01-01-W1\|2024-01-01-W1]]
+### ㅡ [[distribute/Weekly note/Content record folder/2024-01-01-W1\|2024-01-01-W1]]
 
-
+### ㅡ [[distribute/Weekly note/Content record folder/2024-01-07-W2\|2024-01-07-W2]]
 
