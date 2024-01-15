@@ -24,3 +24,5 @@
 
 ### ㅡ [[distribute/Weekly note/Content record folder/2024-01-07-W2\|2024-01-07-W2]]
 
+### ㅡ [[distribute/Weekly note/Content record folder/2024-01-14-W3\|2024-01-14-W3]]
+
