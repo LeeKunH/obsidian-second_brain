@@ -33,37 +33,35 @@
 - ##### [[distribute/2022-2 Mechanism design basics(기구설계기초-과목)/2022-2 Mechanism design basics(기구설계기초-과목)\| 2022-2학기 C언어 활용-기구설계-프로젝트]]
 - ##### [[distribute/Archive folder/Smart Manufacturing Implementation Professional\|스마트제조 구축운영 전문가]]
 - ##### [[distribute/Archive folder/TOEIC Speaking\|TOEIC Speaking]]
-- ##### [[distribute/Archive folder/comento\|학교-코멘토수료]]
+- ##### [[distribute/Archive folder/comento\|학교 프로그램-코멘토]]
+- [[distribute/AI+Web Development Camp/AI-WEB 개발 취업캠프-목차\|AI + 웹 개발 취업캠프]]
 
 ----
 
-
-- # [[distribute/AI+Web Development Camp/AI-WEB 개발 취업캠프-목차\|AI + 웹 개발 취업캠프]]
-	- ## [[distribute/Python 파이썬/Python - Table of Contents\|Python 언어]]
-		- ## python 플라스크 웹사이트 구축
+- # 프로그래밍 언어
+	- ## [[distribute/Python 파이썬/Python - Table of Contents\|Python-파이썬]]
 		- ### [[distribute/Python-Chrome Dinosaur Game-Project/Python-Chrome Dinosaur Game-Project-Table of Contents\|Python-크롬 공룡게임-미니프로젝트]]
 		- ### [[distribute/Algorithm-Coding Test-CT-Problem/Algorithm-Coding Test-CT-Problem-Table of Contents\|알고리즘-코딩테스트-CT 문제풀이]]
 		- 
-	- ## [[distribute/HTML-CSS-JavaScript-Web Page/HTML CSS JavaScript Web Page-Table of Contents\| HTML CSS JS-웹 페이지 구축]]
+	
+- ## [[distribute/HTML-CSS-JavaScript-Web Page/HTML CSS JavaScript Web Page-Table of Contents\| HTML CSS JS-웹 페이지]]
+- 
+- # [[distribute/productivity system-생산성 시스템/productivity system\|생산성-시스템]]
+	- ### [[distribute/productivity system-생산성 시스템/Goals - Law of Attraction-Table of Contents\|목표 끌어당김 법칙]]
+		- #### 목표 끌어당김 문장
+	- ### [[distribute/productivity system-생산성 시스템/discpline_rule_regulation-routine SOP\|규칙-규율-루틴SOP]]
+	- ### [[distribute/productivity system-생산성 시스템/10minutes-consistent-checklist\|10분-꾸준-체크리스트]]
 	- 
-	- ## [[distribute/productivity system-생산성 시스템/productivity system\|생산성-시스템]]
-		- ### [[distribute/productivity system-생산성 시스템/Goals - Law of Attraction-Table of Contents\|목표 끌어당김 법칙]]
-			- #### 목표 끌어당김 문장
-		- ### [[distribute/productivity system-생산성 시스템/discpline_rule_regulation-routine SOP\|규칙-규율-루틴SOP]]
-		- ### [[distribute/productivity system-생산성 시스템/10minutes-consistent-checklist\|10분-꾸준-체크리스트]]
-		- 
-	- ## 인공지능
-		- ### [[distribute/AI-Artificial Intelligence/AICE-Table of Contents\|AICE 자격증]]
-		- ### 딥러닝 미니 프로젝트
-		- 
-	- ## [[distribute/Development terminology-CS knowledge-IT information/Development-CS-IT information-Table of Contents\|CS지식_IT_개발용어]]
+- ## 인공지능
+	- ### [[distribute/AI-Artificial Intelligence/AICE-Table of Contents\|AICE 자격증]]
+	- ### 딥러닝 미니 프로젝트
 	- 
-	- ## 개발도구
-		- ### [[distribute/VScode-비주얼 스튜디오 코드/VScode-Table of Contents\|VScode-비주얼 스튜디오 코드]]
-		- ### ANACONDA-아나콘다
-		- ### Jupyter Notebook-주피터 노트북
-		- ### 깃-깃허브
-		- 
-	- ## DB-데이터베이스
+- ## [[distribute/Development terminology-CS knowledge-IT information/Development-CS-IT information-Table of Contents\|CS지식_IT_개발용어]]
+- 
+- ## 개발도구
+	- ### [[distribute/VScode-비주얼 스튜디오 코드/VScode-Table of Contents\|VScode-비주얼 스튜디오 코드]]
+	- ### ANACONDA-아나콘다
+	- ### Jupyter Notebook-주피터 노트북
+	- ### 깃-깃허브
 	- 
-	- ## 최종 프로젝트
+
