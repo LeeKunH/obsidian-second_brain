@@ -35,6 +35,7 @@
 - ##### [[distribute/Archive folder/TOEIC Speaking\|TOEIC Speaking]]
 - ##### [[distribute/Archive folder/comento\|학교 프로그램-코멘토]]
 - ##### [[distribute/AI+Web Development Camp/AI-WEB 개발 취업캠프-목차\|AI + 웹 개발 취업캠프]]
+	- ##### [[distribute/AI-Artificial Intelligence/AICE-Table of Contents\|AICE 자격증]]
 
 ----
 
@@ -46,6 +47,10 @@
 	
 - ## [[distribute/HTML-CSS-JavaScript-Web Page/HTML CSS JavaScript Web Page-Table of Contents\| HTML CSS JS-웹 페이지]]
 - 
+- # 인공지능
+	- ## AICE
+	- ### 딥러닝 미니 프로젝트
+
 - # [[distribute/productivity system-생산성 시스템/productivity system\|생산성-시스템]]
 	- ### [[distribute/productivity system-생산성 시스템/Goals - Law of Attraction-Table of Contents\|목표 끌어당김 법칙]]
 		- #### 목표 끌어당김 문장
