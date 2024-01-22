@@ -26,3 +26,5 @@
 
 ### ㅡ [[distribute/Weekly note/Content record folder/2024-01-14-W3\|2024-01-14-W3]]
 
+### ㅡ [[distribute/Weekly note/Content record folder/2024-01-21-W4\|2024-01-21-W4]]
+
