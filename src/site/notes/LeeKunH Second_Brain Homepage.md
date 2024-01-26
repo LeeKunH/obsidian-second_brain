@@ -23,6 +23,7 @@
 > 그러면 반드시 이뤄진다. 기회는 온다. 그게 `법칙`이다.
 
 - ### [[Current career path pursued - values ​​regarding life - records\|현재 추구하는 진로-인생에 대한 가치관-기록]]
+	- ##### [[distribute/productivity system-생산성 시스템/Vision-Board\|비전보드]]
 
 ----
 - ### [[distribute/Weekly note/Weekly note-Table of Contents\|Weekly note]]
@@ -40,9 +41,9 @@
 ----
 
 - # 프로그래밍 언어
-	- ## [[distribute/Python 파이썬/Python - Table of Contents\|Python-파이썬]]
-		- ### [[distribute/Python-Chrome Dinosaur Game-Project/Python-Chrome Dinosaur Game-Project-Table of Contents\|Python-크롬 공룡게임-미니프로젝트]]
-		- ### [[distribute/Algorithm-Coding Test-CT-Problem/Algorithm-Coding Test-CT-Problem-Table of Contents\|알고리즘-코딩테스트-CT 문제풀이]]
+	- ### [[distribute/Python 파이썬/Python - Table of Contents\|Python-파이썬]]
+		- #### [[distribute/Python-Chrome Dinosaur Game-Project/Python-Chrome Dinosaur Game-Project-Table of Contents\|Python-크롬 공룡게임-미니프로젝트]]
+		- #### [[distribute/Algorithm-Coding Test-CT-Problem/Algorithm-Coding Test-CT-Problem-Table of Contents\|알고리즘-코딩테스트-CT 문제풀이]]
 		- 
 	
 - ## [[distribute/HTML-CSS-JavaScript-Web Page/HTML CSS JavaScript Web Page-Table of Contents\| HTML CSS JS-웹 페이지]]
@@ -50,7 +51,7 @@
 - # 인공지능
 	- ## AICE
 	- ### 딥러닝 미니 프로젝트
-
+	- 
 - # [[distribute/productivity system-생산성 시스템/productivity system\|생산성-시스템]]
 	- ### [[distribute/productivity system-생산성 시스템/Goals - Law of Attraction-Table of Contents\|목표 끌어당김 법칙]]
 		- #### 목표 끌어당김 문장
