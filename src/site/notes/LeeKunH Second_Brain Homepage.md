@@ -35,6 +35,7 @@
 - ##### [[distribute/Archive folder/Smart Manufacturing Implementation Professional\|스마트제조 구축운영 전문가]]
 - ##### [[distribute/Archive folder/TOEIC Speaking\|TOEIC Speaking]]
 - ##### [[distribute/Archive folder/comento\|학교 프로그램-코멘토]]
+- ##### [[distribute/Archive folder/Bachelor of Engineering in Mechanical Engineering\|기계공학-학위증]]
 - ##### [[distribute/AI+Web Development Camp/AI-WEB 개발 취업캠프-목차\|AI + 웹 개발 취업캠프]]
 	- ##### [[distribute/AI-Artificial Intelligence/AICE-Table of Contents\|AICE 자격증]]
 
