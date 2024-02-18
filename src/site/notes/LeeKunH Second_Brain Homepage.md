@@ -59,7 +59,9 @@
 		- #### 목표 끌어당김 문장
 	- ### [[distribute/productivity system-생산성 시스템/discpline_rule_regulation-routine SOP\|규칙-규율-루틴SOP]]
 	- ### [[distribute/productivity system-생산성 시스템/10minutes-consistent-checklist\|10분-꾸준-체크리스트]]
-	- 
+	- ㅡ
+	- ### 배움-기록-관리-시스템
+		- ##### [[distribute/productivity system-생산성 시스템/Note-taking organizing system - table of contents\|노트 기록 체계화 시스템]]
 	
 - ## [[distribute/Development terminology-CS knowledge-IT information/Development-CS-IT information-Table of Contents\|CS지식_IT_개발용어]]
 - 
