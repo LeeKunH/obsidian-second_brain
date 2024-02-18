@@ -41,19 +41,24 @@
 
 ----
 
+- # [[distribute/Development terminology-CS knowledge-IT information/Development-CS-IT information-Table of Contents\|CS지식_IT_개발용어]]
+- 
 - # 프로그래밍 언어
 	- ### [[distribute/Python 파이썬/Python - Table of Contents\|Python-파이썬]]
 		- #### [[distribute/Python-Chrome Dinosaur Game-Project/Python-Chrome Dinosaur Game-Project-Table of Contents\|Python-크롬 공룡게임-미니프로젝트]]
 		- #### [[distribute/Algorithm-Coding Test-CT-Problem/Algorithm-Coding Test-CT-Problem-Table of Contents\|알고리즘-코딩테스트-CT 문제풀이]]
 		- 
-	
-- ## [[distribute/HTML-CSS-JavaScript-Web Page/HTML CSS JavaScript Web Page-Table of Contents\| HTML CSS JS-웹 페이지]]
+	- ### [[distribute/HTML-CSS-JavaScript-Web Page/HTML CSS JavaScript Web Page-Table of Contents\| HTML CSS JS-웹 페이지]]
+- 
+- # 개발도구
+	- ### [[distribute/VScode-비주얼 스튜디오 코드/VScode-Table of Contents\|VScode-비주얼 스튜디오 코드]]
+	- ### ANACONDA-아나콘다
+	- ### Jupyter Notebook-주피터 노트북
+	- ### 깃-깃허브
 - 
 - # 인공지능
-	- ## AICE
-	- ### 딥러닝 미니 프로젝트
+	- ### AICE
 	- 
-	
 - # [[distribute/productivity system-생산성 시스템/productivity system\|생산성-시스템]]
 	- ### [[distribute/productivity system-생산성 시스템/Goals - Law of Attraction-Table of Contents\|목표 끌어당김 법칙]]
 		- #### 목표 끌어당김 문장
@@ -63,12 +68,6 @@
 	- ### 배움-기록-관리-시스템
 		- ##### [[distribute/productivity system-생산성 시스템/Note-taking organizing system - table of contents\|노트 기록 체계화 시스템]]
 	
-- ## [[distribute/Development terminology-CS knowledge-IT information/Development-CS-IT information-Table of Contents\|CS지식_IT_개발용어]]
 - 
-- ## 개발도구
-	- ### [[distribute/VScode-비주얼 스튜디오 코드/VScode-Table of Contents\|VScode-비주얼 스튜디오 코드]]
-	- ### ANACONDA-아나콘다
-	- ### Jupyter Notebook-주피터 노트북
-	- ### 깃-깃허브
 	
 
