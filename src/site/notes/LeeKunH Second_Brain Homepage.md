@@ -42,6 +42,7 @@
 ----
 
 - # [[distribute/Development terminology-CS knowledge-IT information/Development-CS-IT information-Table of Contents\|CS지식_IT_개발용어]]
+	- ### 금융산업
 - 
 - # 프로그래밍 언어
 	- ### [[distribute/Python 파이썬/Python - Table of Contents\|Python-파이썬]]
