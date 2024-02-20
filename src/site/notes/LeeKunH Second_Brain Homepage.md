@@ -70,5 +70,6 @@
 	- ### 배움-기록-관리-시스템
 		- ##### [[distribute/productivity system-생산성 시스템/Note-taking organizing system - table of contents\|노트 기록 체계화 시스템]]
 		- ##### [[distribute/productivity system-생산성 시스템/Obsidian-Zettelkasten-Table of Contents\|옵시디언-제텔카스텐]]
+		- ##### PARA-기록-관리
 	
 
