@@ -98,8 +98,9 @@ ex)
 목표를 이뤄가는 동안에 단순하게 생각하고 행동할 수 있도록, 비생산적인 것들에 에너지를 쏟는 시간을 줄이기 위해 자신만의 **"생산성-시스템"** 을 구축한다.
 
 - [[Current career path pursued - values ​​regarding life - records\|Current career path pursued - values ​​regarding life - records]]
-	- [[distribute/productivity system-생산성 시스템/discpline_rule_regulation-routine SOP\|discpline_규칙_규율-루틴SOP]]
+- [[distribute/productivity system-생산성 시스템/discpline_rule_regulation-routine SOP\|discpline_규칙_규율-루틴SOP]]
 - [[distribute/productivity system-생산성 시스템/Note-taking organizing system - table of contents\|Note-taking organizing system - table of contents]]
+	- [[distribute/productivity system-생산성 시스템/Obsidian-Zettelkasten-Table of Contents\|Obsidian-Zettelkasten-Table of Contents]]
 ### - 4-6
 ==1.==
 내가 현재 **추구하는, 이루고 싶은** 게 있고 > 이루고 싶은 이유가 누가, 언제, 어디서 물어보더라도 입 밖으로 툭툭 나온다면 그건 이뤄야만 인생을 살아가면서 **기분 좋은 상태**를 유지하며 살아갈 수 있다. 
