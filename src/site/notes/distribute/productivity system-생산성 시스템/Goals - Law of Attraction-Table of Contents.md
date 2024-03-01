@@ -99,12 +99,28 @@ ex)
 
 
 ### - 4-2 
-목표를 이뤄가는 동안에 단순하게 생각하고 행동할 수 있도록, 비생산적인 것들에 에너지를 쏟는 시간을 줄이기 위해 자신만의 **"생산성-시스템"** 을 구축한다.
-
+목표를 이뤄가는 과정에서 단순하게 생각하고 행동할 수 있도록, 비생산적인 것들에 에너지를 쏟는 시간을 줄이기 위해 자신만의 **"생산성-시스템"** 을 구축한다.
+	
 - [[Current career path pursued - values ​​regarding life - records\|Current career path pursued - values ​​regarding life - records]]
-- [[distribute/productivity system-생산성 시스템/discpline_rule_regulation-routine SOP\|discpline_규칙_규율-루틴SOP]]
-- [[distribute/productivity system-생산성 시스템/Note-taking organizing system - table of contents\|Note-taking organizing system - table of contents]]
-	- [[distribute/productivity system-생산성 시스템/Obsidian-Zettelkasten-Table of Contents\|Obsidian-Zettelkasten-Table of Contents]]
+- 생산성-시스템 =>
+	- 데일리 기록
+	- 목표 끌어당김 법칙
+		- [[비전보드\|비전보드]]
+			- https://obsidian-second-brain.vercel.app/distribute/productivity-system/vision-board/
+	- [[distribute/productivity system-생산성 시스템/discpline_rule_regulation-routine SOP\|discpline_규칙_규율-루틴SOP]]
+	- [[10분-꾸준-체크리스트\|10분-꾸준-체크리스트]]
+	- [[인생선배-멘토-목차\|인생선배-멘토-목차]]
+	- [[2024년-핵심목표-우선순위-명확화 리스트\|2024년-핵심목표-우선순위-명확화 리스트]]
+	- GTD-할 일 관리 시스템
+	- ㅡㅡㅡㅡㅡ
+	- 배움-기록-관리-시스템
+		- [[distribute/productivity system-생산성 시스템/Obsidian-Zettelkasten-Table of Contents\|Obsidian-Zettelkasten-Table of Contents]]
+		- [[distribute/productivity system-생산성 시스템/Note-taking organizing system - table of contents\|Note-taking organizing system - table of contents]]
+		- [[PARA-관리 시스템-목차\|PARA-관리 시스템-목차]]
+
+
+
+
 ### - 4-6
 ==1.==
 내가 현재 **추구하는, 이루고 싶은** 게 있고 > 이루고 싶은 이유가 누가, 언제, 어디서 물어보더라도 입 밖으로 툭툭 나온다면 그건 이뤄야만 인생을 살아가면서 **기분 좋은 상태**를 유지하며 살아갈 수 있다. 
