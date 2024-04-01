@@ -31,7 +31,6 @@
 
 ----
 - ##### [[distribute/2022-2 Mechanism design basics(기구설계기초-과목)/2022-2 Mechanism design basics(기구설계기초-과목)\| 2022-2학기 C언어 활용-기구설계-프로젝트]]
-- ##### [[distribute/Archive folder/Smart Manufacturing Implementation Professional\|스마트제조 구축운영 전문가]]
 - ##### [[distribute/Archive folder/TOEIC Speaking\|TOEIC Speaking]]
 - ##### [[distribute/Archive folder/comento\|학교 프로그램-코멘토]]
 - ##### [[distribute/Archive folder/Bachelor of Engineering in Mechanical Engineering\|기계공학-학위증]]
