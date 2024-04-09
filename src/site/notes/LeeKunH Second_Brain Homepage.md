@@ -36,7 +36,6 @@
 - ##### [[distribute/AI+Web Development Camp/AI-WEB 개발 취업캠프-목차\|AI + 웹 개발 취업캠프]]
 	- ##### [[distribute/AI-Artificial Intelligence/AICE-Table of Contents\|AICE 자격증]]
 
-
 ----
 
 - # [[distribute/Development terminology-CS knowledge-IT information/Development-CS-IT information-Table of Contents\|CS지식_IT_개발용어]]
@@ -58,6 +57,7 @@
 	- ### ANACONDA-아나콘다
 	- ### Jupyter Notebook-주피터 노트북
 	- ### [[distribute/Git-Hub-깃허브/Git-Hub-Table of Contents\|깃-깃허브]]
+	- ### [[distribute/AWS-CloudService/AWS-Cloud Service-Knowledge Brain\|AWS-클라우드서비스]]
 - 
 - # 인공지능
 	- ### AICE
