@@ -30,8 +30,6 @@
 - ### [[distribute/Weekly note/Weekly Exercise Iog\|Weekly Exercise Iog]]
 
 ----
-- ##### [[distribute/Mechanical Major-ExperienceStory-Record/2022-2 Mechanism design basics(기구설계기초-과목)\| 2022-2학기 C언어 활용-기구설계-프로젝트]]
-- ##### [[distribute/Archive folder/comento\|학교 프로그램-코멘토]]
 - ##### [[distribute/Archive folder/Bachelor of Engineering in Mechanical Engineering\|기계공학-학위증]]
 - ##### [[distribute/AI+Web Development Camp/AI-WEB 개발 취업캠프-목차\|AI + 웹 개발 취업캠프]]
 	- ##### [[distribute/AI-Artificial Intelligence/AICE-Table of Contents\|AICE 자격증]]
@@ -43,6 +41,8 @@
 		- ### [[distribute/Financial-IT-금융IT/Financial IT Development-Seminar-Table of Contents\|금융IT개발-세미나]]
 		- 
 - # 도메인지식
+	- ## 기계전공
+		- ### [[distribute/Mechanical Major-ExperienceStory-Record/2022-2 Mechanism design basics(기구설계기초-과목)\| 2022-2학기 C언어 활용-기구설계-프로젝트]]
 	- ## [[distribute/Domain knowledge-도메인지식/manufacturing industry\|제조산업]]
 - 
 - # 프로그래밍 언어
