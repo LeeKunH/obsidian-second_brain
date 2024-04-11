@@ -6,16 +6,19 @@
 
 -------------------------------
 
-
 # ㅡ 제조산업
+
+
 ### ㅡ 스마트제조 구축운영 전문가
 
+
 > [!info]
-> - 민간자격증 정보
-> - https://www.kosmia.or.kr/page/?M2_IDX=21979&SCL_CODE=vipvfdi6
+> - 해당 시험에 대한 정보=>
+> 	- 민간자격증 정보 :  https://www.kosmia.or.kr/page/?M2_IDX=21979&SCL_CODE=vipvfdi6
 > 	- 스마트제조 구축 운영 전문가 3급(Smart Manufacturing Implementation Professional)
 > 	- 주무부처 : 산업통상자원부
 > 	- 자격발급기관 : 한국산업지능화협회(Korea Industry Intelligentization Association)
+> 	- 
 > 	- 생산 공정 내 스마트제조 주요 기술 및 국제(국가) 표준기반 통신·규격을 적용하여 현장맞춤형 구축·운영으로 생산비용 절감, 공정 최적화 등 제조 현장의 스마트화를 이끌 수 있는 실무 전문가로서의 업무를 수행
 > 	- 스마트제조 기술 및 연속·이산 공정 등 제조 업종, 스마트제조 국제(국가) 표준을 이해하고 지능형 공장 구축에 대한 이론지식을 통해 제조 현장에서 기초 운영 실무를 파악할 수 있는 업무를 수행
 > 	- 1과목-산업경영일반
