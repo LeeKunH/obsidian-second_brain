@@ -31,7 +31,6 @@
 
 ----
 - ##### [[distribute/AI+Web Development Camp/AI-WEB 개발 취업캠프-목차\|AI + 웹 개발 취업캠프]]
-	- ##### [[distribute/AI-Artificial Intelligence/AICE-Table of Contents\|AICE 자격증]]
 
 ----
 
@@ -44,7 +43,7 @@
 		- ### [[distribute/Archive folder/Bachelor of Engineering in Mechanical Engineering\|기계공학-학위증]]
 		- ### [[distribute/Mechanical Major-ExperienceStory-Record/2022-2 Mechanism design basics(기구설계기초-과목)\| 2022-2학기 C언어 활용-기구설계-프로젝트]]
 	- ## [[distribute/Domain knowledge-도메인지식/manufacturing industry\|제조산업]]
-	- ## 인공지능
+	- ## [[distribute/Domain knowledge-도메인지식/AI-Artificial Intelligence\|인공지능]]
 - 
 - # 프로그래밍 언어
 	- ### [[distribute/Python 파이썬/Python - Table of Contents\|Python-파이썬]]
