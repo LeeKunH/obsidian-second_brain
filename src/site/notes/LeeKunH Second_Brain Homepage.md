@@ -44,6 +44,7 @@
 		- ### [[distribute/Archive folder/Bachelor of Engineering in Mechanical Engineering\|기계공학-학위증]]
 		- ### [[distribute/Mechanical Major-ExperienceStory-Record/2022-2 Mechanism design basics(기구설계기초-과목)\| 2022-2학기 C언어 활용-기구설계-프로젝트]]
 	- ## [[distribute/Domain knowledge-도메인지식/manufacturing industry\|제조산업]]
+	- ## 인공지능
 - 
 - # 프로그래밍 언어
 	- ### [[distribute/Python 파이썬/Python - Table of Contents\|Python-파이썬]]
@@ -58,9 +59,6 @@
 	- ### Jupyter Notebook-주피터 노트북
 	- ### [[distribute/Git-Hub-깃허브/Git-Hub-Table of Contents\|깃-깃허브]]
 	- ### [[distribute/AWS-CloudService/AWS-Cloud Service-Knowledge Brain\|AWS-클라우드서비스]]
-- 
-- # 인공지능
-	- ### AICE
 	- 
 - # [[distribute/productivity system-생산성 시스템/productivity system\|생산성-시스템]]
 	- ### [[distribute/productivity system-생산성 시스템/Goals - Law of Attraction-Table of Contents\|목표 끌어당김 법칙]]
