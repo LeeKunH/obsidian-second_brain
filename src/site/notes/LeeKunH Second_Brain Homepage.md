@@ -34,16 +34,18 @@
 
 ----
 
-- # [[distribute/Development terminology-CS knowledge-IT information/Development-CS-IT information-Table of Contents\|CS지식_IT_개발용어]]
-	- ## 금융
-		- ### [[distribute/Financial-IT-금융IT/Financial IT Development-Seminar-Table of Contents\|금융IT개발-세미나]]
-		- 
+
+- # IT-CS-개발용어
+	- ## [[distribute/IT-CS-Development Terminology/IT-Development Terminology-CS-Knowledge Brain\|IT-Development Terminology-CS-Knowledge Brain]]
+	- 
 - # 도메인지식
 	- ## 기계전공
 		- ### [[distribute/Archive folder/Bachelor of Engineering in Mechanical Engineering\|기계공학-학위증]]
 		- ### [[distribute/Mechanical Major-ExperienceStory-Record/2022-2 Mechanism design basics(기구설계기초-과목)\| 2022-2학기 C언어 활용-기구설계-프로젝트]]
 	- ## [[distribute/Domain knowledge-도메인지식/manufacturing industry\|제조산업]]
 	- ## [[distribute/Domain knowledge-도메인지식/AI-Artificial Intelligence\|인공지능]]
+	- ## 금융
+		- ### [[distribute/Financial-IT-금융IT/Financial IT Development-Seminar-Table of Contents\|금융IT개발-세미나]]
 - 
 - # 프로그래밍 언어
 	- ### [[distribute/Python 파이썬/Python - Table of Contents\|Python-파이썬]]
