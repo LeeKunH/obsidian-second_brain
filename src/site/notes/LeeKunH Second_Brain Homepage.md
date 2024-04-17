@@ -24,6 +24,7 @@
 
 - ### [[Current career path pursued - values ​​regarding life - records\|현재 추구하는 진로-인생에 대한 가치관-기록]]
 	- ##### [[distribute/productivity system-생산성 시스템/Vision-Board\|비전보드]]
+	- **비전보드**
 
 ----
 - ### [[distribute/Weekly note/Weekly note-Table of Contents\|Weekly note]]
