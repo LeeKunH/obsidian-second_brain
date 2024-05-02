@@ -4,6 +4,9 @@
 
 ### 날짜 2023-11-20 12:39
 
+
+
+
 -------------------------------
 
 ### ㅡ [[distribute/Weekly note/Content record folder/2023-11-12-W2\|2023-11-12-W2]]
@@ -39,4 +42,8 @@
 ### ㅡ [[distribute/Weekly note/Content record folder/2024-02-25-W4\|2024-02-25-W4]]
 
 ### ㅡ [[distribute/Weekly note/Content record folder/2024-03-03-W1\|2024-03-03-W1]]
+
+-----
+
+### ㅡ [[2024-05-01-W1\|2024-05-01-W1]]
 
