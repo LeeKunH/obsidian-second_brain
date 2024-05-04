@@ -26,6 +26,7 @@
 	- ##### [[distribute/productivity system-생산성 시스템/Vision-Board\|비전보드]]
 	- **비전보드**
 
+
 ----
 - ### [[distribute/Weekly note/Weekly note-Table of Contents\|Weekly note]]
 - ### [[distribute/Weekly note/Weekly Exercise Iog\|Weekly Exercise Iog]]
@@ -55,7 +56,7 @@
 		- 
 	- ### [[distribute/HTML-CSS-JavaScript-Web Page/HTML CSS JavaScript Web Page-Table of Contents\| HTML CSS JS-웹 페이지]]
 - 
-- # 개발도구
+- # 프로그램-개발도구
 	- ### [[distribute/VScode-비주얼 스튜디오 코드/VScode-Table of Contents\|VScode-비주얼 스튜디오 코드]]
 	- ### ANACONDA-아나콘다
 	- ### Jupyter Notebook-주피터 노트북
