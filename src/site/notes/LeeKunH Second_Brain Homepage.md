@@ -62,6 +62,7 @@
 	- ### Jupyter Notebook-주피터 노트북
 	- ### [[distribute/Git-Hub-깃허브/Git-Hub-Table of Contents\|깃-깃허브]]
 	- ### [[distribute/AWS-CloudService/AWS-Cloud Service-Knowledge Brain\|AWS-클라우드서비스]]
+		- 코멘토 프로그램 참여 내용 기록
 	- 
 - # [[distribute/productivity system-생산성 시스템/productivity system\|생산성-시스템]]
 	- ### [[distribute/productivity system-생산성 시스템/Goals - Law of Attraction-Table of Contents\|목표 끌어당김 법칙]]
