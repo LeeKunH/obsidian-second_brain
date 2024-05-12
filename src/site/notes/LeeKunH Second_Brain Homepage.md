@@ -39,6 +39,7 @@
 
 - # IT-CS-개발용어
 	- ### [[distribute/IT-CS-Development Terminology/IT-Development Terminology-CS-Knowledge Brain\|IT-Development Terminology-CS-Knowledge Brain]]
+		- 화면 깨짐 시 깃허브 링크 : https://github.com/LeeKunH/obsidian-second_brain/blob/5333d0fded34ef984d682170939ded5cfe63b462/src/site/notes/distribute/IT-CS-Development%20Terminology/IT-Development%20Terminology-CS-Knowledge%20Brain.md
 	- 
 - # 도메인지식
 	- ### 기계전공
