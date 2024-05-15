@@ -39,7 +39,7 @@
 
 - # IT-CS-개발용어
 	- ### [[distribute/IT-CS-Development Terminology/IT-Development Terminology-CS-Knowledge Brain\|IT-Development Terminology-CS-Knowledge Brain]]
-		- 화면 깨짐 시 깃허브 링크 : https://github.com/LeeKunH/obsidian-second_brain/blob/5333d0fded34ef984d682170939ded5cfe63b462/src/site/notes/distribute/IT-CS-Development%20Terminology/IT-Development%20Terminology-CS-Knowledge%20Brain.md
+		- 화면 깨짐 시 깃허브 링크 : https://github.com/LeeKunH/obsidian-second_brain/tree/c067b6bd12fa4fc546d035cca1e59a3cbd63ec77/src/site/notes/distribute/IT-CS-Development%20Terminology
 	- ### 리눅스 운영체제
 	- 
 - # 도메인지식
