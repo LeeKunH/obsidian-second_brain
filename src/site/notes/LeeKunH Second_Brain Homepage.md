@@ -23,8 +23,6 @@
 > 그러면 반드시 이뤄진다. 기회는 온다. 그게 `법칙`이다.
 
 - ### [[Current career path pursued - values ​​regarding life - records\|현재 추구하는 진로-인생에 대한 가치관-기록]]
-	- ##### [[distribute/productivity system-생산성 시스템/Vision-Board\|비전보드]]
-	- **비전보드**
 
 
 ----
@@ -69,12 +67,10 @@
 - # [[distribute/productivity system-생산성 시스템/productivity system\|생산성-시스템]]
 	- ### [[distribute/productivity system-생산성 시스템/Goals - Law of Attraction-Table of Contents\|목표 끌어당김 법칙]]
 		- #### 목표 끌어당김 문장
-	- ### [[distribute/productivity system-생산성 시스템/discpline_rule_regulation-routine SOP\|규칙-규율-루틴SOP]]
-	- ### [[distribute/productivity system-생산성 시스템/10minutes-consistent-checklist\|10분-꾸준-체크리스트]]
 	- ㅡ
 	- ### 배움-기록-관리-시스템
-		- ##### [[distribute/productivity system-생산성 시스템/Note-taking organizing system - table of contents\|노트 기록 체계화 시스템]]
-		- ##### [[distribute/productivity system-생산성 시스템/Obsidian-Zettelkasten-Table of Contents\|옵시디언-제텔카스텐]]
+		- 노트 기록 체계화 시스템
+		- 옵시디언-제텔카스텐
 		- ##### PARA-기록-관리
 	
 
