@@ -66,7 +66,7 @@
 	- 
 - # [[distribute/productivity system-생산성 시스템/productivity system\|생산성-시스템]]
 	- ### [[distribute/productivity system-생산성 시스템/Goals - Law of Attraction-Table of Contents\|목표 끌어당김 법칙]]
-		- #### 목표 끌어당김 문장
+		- ##### [[distribute/productivity system-생산성 시스템/Goal Attraction Sentence - Record\|목표 끌어당김 문장기록]]
 	- ㅡ
 	- ### 배움-기록-관리-시스템
 		- 노트 기록 체계화 시스템
